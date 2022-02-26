@@ -1,4 +1,4 @@
-package maximumdepthofbinarytree
+package internal
 
 func maxd(root *TreeNode, l int) int {
 	if root == nil {
